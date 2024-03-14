@@ -1,5 +1,5 @@
 # Week 4 project -  Getting and Cleaning Data in R
-Author -- Benedict Neo
+Author -- Chang Liu
 
 Data Source -- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
