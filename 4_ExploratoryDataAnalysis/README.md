@@ -21,9 +21,3 @@ The final project was fairly easier than the ones before, and I enjoyed going ha
 This course is complemented with the book below
 
 * [Exploratory Data Analysis with R - Roger D. Peng](https://bookdown.org/rdpeng/exdata/)
-
-## Proof of completion
-
-![Certificate for fourth course](cert4.png) 
-
-[View it online](https://coursera.org/share/36da6646e851d562299896e485303ce6)
