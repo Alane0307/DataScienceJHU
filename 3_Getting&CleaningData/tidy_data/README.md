@@ -9,10 +9,10 @@ This repository includes 4 files, the R script named `run_analysis.R`, this read
 
 Goal | Item | Link to Item
 --- | --- | ---
-R Script |  run_analysis.R |  [Link](https://github.com/Alane0307/DataScienceJHU/blob/main/run_analysis.R)
-Read_me file | README.md | [Link](https://github.com/Alane0307/DataScienceJHU/blob/main/README.md)
-CodeBook file | CodeBook.md | [Link](https://github.com/Alane0307/DataScienceJHU/blob/main/CodeBook.md)
-Tidy Data file |  Clean Data Set |  [Link](https://github.com/Alane0307/DataScienceJHU/blob/main/tidyData.txt)
+R Script |  run_analysis.R |  [Link](https://github.com/Alane0307/DataScienceJHU/blob/main/3_Getting&CleaningData/tidy_data/run_analysis.R)
+Read_me file | README.md | [Link](https://github.com/Alane0307/DataScienceJHU/blob/main/3_Getting&CleaningData/tidy_data/README.md)
+CodeBook file | CodeBook.md | [Link](https://github.com/Alane0307/DataScienceJHU/blob/main/3_Getting&CleaningData/tidy_data/CodeBook.md)
+Tidy Data file |  Clean Data Set |  [Link](https://github.com/Alane0307/DataScienceJHU/blob/main/3_Getting&CleaningData/tidy_data/tidyData.txt)
 
 ### Review criteria of project
 1. The submitted data set is tidy.
