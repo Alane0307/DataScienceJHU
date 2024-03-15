@@ -1,0 +1,12 @@
+name: COVID
+title: COVID
+username: alane0307
+account: alane0307
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11497175
+bundleId: 8374267
+url: https://alane0307.shinyapps.io/COVID/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
