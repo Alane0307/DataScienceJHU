@@ -23,7 +23,7 @@ widgets: bootstrap
 
 This presentation is done for the Coursera course Developing Data Products. The final assignment was to create a Shiny app and a reproducible pitch
 
-Access the shiny app [here](https://benthecoder.shinyapps.io/COVID-19_Dashboard/)
+Access the shiny app [here](https://alane0307.shinyapps.io/COVID/)
 
 This will be going into how the shiny app was formed, and where the data comes from. 
 
